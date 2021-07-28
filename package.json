@@ -10,7 +10,8 @@
   "dependencies": {
     "next": "latest",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "classnames": "2.3.1"
   },
   "license": "MIT",
   "keywords": [],
