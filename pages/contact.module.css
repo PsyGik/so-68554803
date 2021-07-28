@@ -1,0 +1,14 @@
+.hidetheresult {
+  visibility: hidden;
+}
+.showtheresult {
+  visibility: visible;
+}
+
+.btn-hidetheresult {
+  border-color: pink;
+}
+
+.btn-showtheresult {
+  border-color: aqua;
+}
